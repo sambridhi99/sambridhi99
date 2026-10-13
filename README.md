@@ -1,1 +1,1 @@
-
+Hey! I'm Sambridhi a developer who enjoys building practical software, full-stack web platforms, and mobile apps. Some of my recent work includes Utkala Sikhya Niketan, an educational application I developed and coordinated through production testing, alongside several other custom apps and interactive web projects. Always exploring new architectures, building useful tools, and refining clean code.
